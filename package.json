@@ -1,0 +1,44 @@
+{
+  "name": "@node-steam/data",
+  "version": "1.0.0",
+  "description": "Module with basic enums and data to make life easier while using Steam / Valve API's",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "homepage": "https://github.com/node-steam/data",
+  "bugs": "https://github.com/node-steam/data/issues",
+  "repository": {
+    "url": "https://github.com/node-steam/data",
+    "type": "git"
+  },
+  "author": "N|Steam",
+  "keywords": [
+    "es6",
+    "es7",
+    "steam-api",
+    "steam",
+    "typescript"
+  ],
+  "files": [
+    "lib/*.js",
+    "lib/*.d.ts",
+    "example/*.js"
+  ],
+  "contributors": [
+    "Silas Rech <silas.rech@protonmail.com> (https://lenovouser.me)"
+  ],
+  "runkitExampleFilename": "example/runkit.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc -p .",
+    "lint": "tslint -c tslint.json 'src/**/*.ts'",
+    "docs": "typedoc src/index.ts",
+    "prepublish": "yarn lint && yarn docs"
+  },
+  "devDependencies": {
+    "@types/node": "8.0.53",
+    "typescript": "^2.6.2"
+  }
+}
