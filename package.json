@@ -1,6 +1,6 @@
 {
   "name": "@node-steam/data",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Module with basic enums and data to make life easier while using Steam / Valve API's",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
