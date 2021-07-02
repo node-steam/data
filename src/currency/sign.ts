@@ -4,6 +4,10 @@ export enum CurrencySign {
      */
     AED = 'د.إ',
     /**
+     * [Argentine peso](https://en.wikipedia.org/wiki/Argentine_peso)
+     */
+    ARS = '$',
+    /**
      * [Australian dollar](https://en.wikipedia.org/wiki/Australian_dollar)
      */
     AUD = '$',
@@ -32,6 +36,10 @@ export enum CurrencySign {
      */
     COP = '$',
     /**
+     * [Costa Rican colón](https://en.wikipedia.org/wiki/Costa_Rican_colón)
+     */
+    CRC = '₡',
+    /**
      * [Euro](https://en.wikipedia.org/wiki/Euro)
      */
     EUR = '€',
@@ -48,6 +56,10 @@ export enum CurrencySign {
      */
     IDR = 'Rp',
     /**
+     * [Israeli shekel](https://en.wikipedia.org/wiki/Israeli_new_shekel)
+     */
+    ILS = '₪',
+    /**
      * [Indian rupee](https://en.wikipedia.org/wiki/Indian_rupee)
      */
     INR = '₹',
@@ -59,6 +71,14 @@ export enum CurrencySign {
      * [South Korean won](https://en.wikipedia.org/wiki/South_Korean_won)
      */
     KRW = '₩',
+    /**
+     * [Kuwaiti dinar](https://en.wikipedia.org/wiki/Kuwaiti_dinar)
+     */
+    KWD = 'KD',
+    /**
+     * [Kazakhstani tenge](https://en.wikipedia.org/wiki/Kazakhstani_tenge)
+     */
+    KZT = '₸',
     /**
      * [Mexican peso](https://en.wikipedia.org/wiki/Mexican_peso)
      */
@@ -87,6 +107,10 @@ export enum CurrencySign {
      * [Polish złoty](https://en.wikipedia.org/wiki/Polish_złoty)
      */
     PLN = 'zł',
+    /**
+     * [Qatari riyal](https://en.wikipedia.org/wiki/Qatari_riyal)
+     */
+    QAR = 'QR',
     /**
      * [Russian ruble](https://en.wikipedia.org/wiki/Russian_ruble)
      */
@@ -123,6 +147,10 @@ export enum CurrencySign {
      * [United States dollar](https://en.wikipedia.org/wiki/United_States_dollar)
      */
     USD = '$',
+    /**
+     * [Uruguayan peso](https://en.wikipedia.org/wiki/Uruguayan_peso)
+     */
+    UYU = '$U',
     /**
      * [Vietnamese đồng](https://en.wikipedia.org/wiki/Vietnamese_đồng)
      */

@@ -4,6 +4,10 @@ export enum CurrencyType {
      */
     AED = 'dirham',
     /**
+     * [Argentine peso](https://en.wikipedia.org/wiki/Argentine_peso)
+     */
+    ARS = 'argentine-peso',
+    /**
      * [Australian dollar](https://en.wikipedia.org/wiki/Australian_dollar)
      */
     AUD = 'australian-dollar',
@@ -32,6 +36,10 @@ export enum CurrencyType {
      */
     COP = 'colombian-peso',
     /**
+     * [Costa Rican colón](https://en.wikipedia.org/wiki/Costa_Rican_colón)
+     */
+    CRC = 'costa-rican-colon',
+    /**
      * [Euro](https://en.wikipedia.org/wiki/Euro)
      */
     EUR = 'euro',
@@ -48,6 +56,10 @@ export enum CurrencyType {
      */
     IDR = 'rupiah',
     /**
+     * [Israeli shekel](https://en.wikipedia.org/wiki/Israeli_new_shekel)
+     */
+    ILS = 'israeli-shekel',
+    /**
      * [Indian rupee](https://en.wikipedia.org/wiki/Indian_rupee)
      */
     INR = 'rupee',
@@ -59,6 +71,14 @@ export enum CurrencyType {
      * [South Korean won](https://en.wikipedia.org/wiki/South_Korean_won)
      */
     KRW = 'won',
+    /**
+     * [Kuwaiti dinar](https://en.wikipedia.org/wiki/Kuwaiti_dinar)
+     */
+    KWD = 'kuwaiti-dinar',
+    /**
+     * [Kazakhstani tenge](https://en.wikipedia.org/wiki/Kazakhstani_tenge)
+     */
+    KZT = 'kazakhstani-tenge',
     /**
      * [Mexican peso](https://en.wikipedia.org/wiki/Mexican_peso)
      */
@@ -87,6 +107,10 @@ export enum CurrencyType {
      * [Polish złoty](https://en.wikipedia.org/wiki/Polish_złoty)
      */
     PLN = 'zloty',
+    /**
+     * [Qatari riyal](https://en.wikipedia.org/wiki/Qatari_riyal)
+     */
+    QAR = 'qatari-riyal',
     /**
      * [Russian ruble](https://en.wikipedia.org/wiki/Russian_ruble)
      */
@@ -123,6 +147,10 @@ export enum CurrencyType {
      * [United States dollar](https://en.wikipedia.org/wiki/United_States_dollar)
      */
     USD = 'us-dollar',
+    /**
+     * [Uruguayan peso](https://en.wikipedia.org/wiki/Uruguayan_peso)
+     */
+    UYU = 'uruguayan-peso',
     /**
      * [Vietnamese đồng](https://en.wikipedia.org/wiki/Vietnamese_đồng)
      */

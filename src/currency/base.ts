@@ -131,4 +131,32 @@ export enum Currency {
      * [Swedish krona](https://en.wikipedia.org/wiki/Swedish_krona)
      */
     SEK = 33,
+    /**
+     * [Argentine peso](https://en.wikipedia.org/wiki/Argentine_peso)
+     */
+    ARS = 34,
+    /**
+     * [Israeli shekel](https://en.wikipedia.org/wiki/Israeli_new_shekel)
+     */
+    ILS = 35,
+    /**
+     * [Kazakhstani tenge](https://en.wikipedia.org/wiki/Kazakhstani_tenge)
+     */
+    KZT = 37,
+    /**
+     * [Kuwaiti dinar](https://en.wikipedia.org/wiki/Kuwaiti_dinar)
+     */
+    KWD = 38,
+    /**
+     * [Qatari riyal](https://en.wikipedia.org/wiki/Qatari_riyal)
+     */
+    QAR = 39,
+    /**
+     * [Costa Rican colón](https://en.wikipedia.org/wiki/Costa_Rican_colón)
+     */
+    CRC = 40,
+    /**
+     * [Uruguayan peso](https://en.wikipedia.org/wiki/Uruguayan_peso)
+     */
+    UYU = 41,
 }
